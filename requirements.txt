@@ -1,1 +1,21 @@
 # external requirements
+wordcloud
+umap-learn
+Unidecode
+transformers
+tqdm
+text-unidecode
+statsmodels
+tableone
+sentence-transformers
+scikit-learn
+scipy
+seaborn
+pandas
+jupyter
+matplotlib
+hdbscan
+huggingface-hub
+gensim
+emoji
+contractions
